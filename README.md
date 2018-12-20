@@ -72,6 +72,7 @@ In case of access to the data-set, you can use the _Run.ipynb_ file to perform t
 
 In this notebook we have included all the steps from preprocessing the data to learning them and training a prediction model. The notebook consists of two main sections:
 ## Features exploration and selection:
+
 This part is used to explore the raw data-set and select the most
 relevant features which is done through the following steps: 
 1. Loading raw dataset 
