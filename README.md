@@ -11,9 +11,6 @@ Piquet Anthony
 
 Erbacher Pierre
 
-Kouh Kamari Hosseini Seyed Reza*
-
-*This member is not enrolled in the Machine Learning course
 
 # Introduction
 The HERUS ( Human Environment Relations in Urban Systems ) lab
@@ -132,7 +129,7 @@ In this step, we have used three different models:
 
 7. Extracting the scores for each indicator
 
-# Parameter Setting:
+## Parameter Setting:
 
 You can modify these parameters in the learning part:
 
@@ -147,7 +144,7 @@ You can modify these parameters in the learning part:
 
 
 
-### Output:
+## Output:
 
 You will get the **R^2 Score (scores)** on the test data of the chosen model for all 20 chosen indicators and all the city categories. The mean values of these scores and more detailed results are presented in the report file. 
 
