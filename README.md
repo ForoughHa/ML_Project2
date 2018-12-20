@@ -10,6 +10,9 @@ Piquet Anthony
 
 Erbacher Pierre
 
+Kouh Kamari Hosseini Seyed Reza*
+
+* This member is not enrolled in the Machine Learning course
 # Introduction
 The HERUS ( Human Environment Relations in Urban Systems ) lab
 wants to find a new model (or improve their existing model ) that is able to
