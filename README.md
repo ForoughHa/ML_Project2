@@ -4,11 +4,16 @@ In collaboration with **LABORATORY  FOR  HUMAN-ENVIRONMENTRELATIONS IN URBAN SYS
 Under the supervision of **Massaro Emanuele**
 
 # Authors:
+
 Habibollahi Saatlou Forough
 
 Piquet Anthony
 
 Erbacher Pierre
+
+Kouh Kamari Hosseini Seyed Reza*
+
+*This member is not enrolled in the Machine Learning course
 
 # Introduction
 The HERUS ( Human Environment Relations in Urban Systems ) lab
